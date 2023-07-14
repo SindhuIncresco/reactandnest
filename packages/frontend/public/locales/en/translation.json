@@ -1,0 +1,14 @@
+{
+    "topbar": {
+       "Jobs":"Jobs",
+       "Search_jobs":"Search jobs"
+    },
+    "mainscreen":{
+         "SEARCH RESULTS/JOBS":  "SEARCH RESULTS/JOBS",
+         "Sort_By" :"Sort By",
+         "Skillmatch":"Skill match",
+         "Posted_5_days_ago":"Posted 5 days ago",
+         "applicants":"applicants",
+         "apply_now":"APPLY NOW"
+    }
+}

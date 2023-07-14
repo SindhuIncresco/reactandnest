@@ -1,0 +1,203 @@
+[
+    {
+      "title": "Software Developer",
+      "company": "ABC Company",
+      "location": "New York",
+      "date": "2023-07-12",
+      "salary": "$100,000",
+      "skill": "JavaScript",
+      "experience": "3 years",
+      "education": "B.E"
+    },
+    {
+      "title": "Web Designer",
+      "company": "XYZ Corporation",
+      "location": "London",
+      "date": "2023-07-13",
+      "salary": "$80,000",
+      "skill": "HTML",
+      "experience": "2 years",
+      "education": "B.Tech"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Design Studio",
+      "location": "Mumbai",
+      "date": "2023-07-14",
+      "salary": "$90,000",
+      "skill": "SQL",
+      "experience": "4 years",
+      "education": "B.E"
+    },
+    {
+      "title": "Front-end Developer",
+      "company": "Global Marketing Agency",
+      "location": "Canada",
+      "date": "2023-07-15",
+      "salary": "$95,000",
+      "skill": "HTML",
+      "experience": "3 years",
+      "education": "B.Tech"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "ABC Company",
+      "location": "New York",
+      "date": "2023-07-16",
+      "salary": "$110,000",
+      "skill": "Java",
+      "experience": "5 years",
+      "education": "B.E"
+    },
+    {
+      "title": "UI/UX Designer",
+      "company": "XYZ Corporation",
+      "location": "London",
+      "date": "2023-07-17",
+      "salary": "$85,000",
+      "skill": "CSS",
+      "experience": "3 years",
+      "education": "B.Tech"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Design Studio",
+      "location": "Mumbai",
+      "date": "2023-07-18",
+      "salary": "$120,000",
+      "skill": "Python",
+      "experience": "6 years",
+      "education": "B.E"
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Global Marketing Agency",
+      "location": "Canada",
+      "date": "2023-07-19",
+      "salary": "$100,000",
+      "skill": "JavaScript",
+      "experience": "4 years",
+      "education": "B.Tech"
+    },
+    {
+      "title": "Mobile App Developer",
+      "company": "ABC Company",
+      "location": "New York",
+      "date": "2023-07-20",
+      "salary": "$95,000",
+      "skill": "React Native",
+      "experience": "3 years",
+      "education": "B.E"
+    },
+    {
+      "title": "Backend Developer",
+      "company": "XYZ Corporation",
+      "location": "London",
+      "date": "2023-07-21",
+      "salary": "$90,000",
+      "skill": "Node.js",
+      "experience": "3 years",
+      "education": "B.Tech"
+    },
+    {
+      "title": "Database Administrator",
+      "company": "Design Studio",
+      "location": "Mumbai",
+      "date": "2023-07-22",
+      "salary": "$95,000",
+      "skill": "SQL",
+      "experience": "4 years",
+      "education": "B.E"
+    },
+    {
+      "title": "Software Architect",
+      "company": "Global Marketing Agency",
+      "location": "Canada",
+      "date": "2023-07-23",
+      "salary": "$120,000",
+      "skill": "Java",
+      "experience": "6 years",
+      "education": "B.Tech"
+    },
+    {
+      "title": "Front-end Developer",
+      "company": "ABC Company",
+      "location": "New York",
+      "date": "2023-07-24",
+      "salary": "$100,000",
+      "skill": "HTML",
+      "experience": "4 years",
+      "education": "B.E"
+    },
+    {
+      "title": "UX Researcher",
+      "company": "XYZ Corporation",
+      "location": "London",
+      "date": "2023-07-25",
+      "salary": "$90,000",
+      "skill": "User Research",
+      "experience": "3 years",
+      "education": "B.Tech"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Design Studio",
+      "location": "Mumbai",
+      "date": "2023-07-26",
+      "salary": "$130,000",
+      "skill": "Python",
+      "experience": "7 years",
+      "education": "B.E"
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Global Marketing Agency",
+      "location": "Canada",
+      "date": "2023-07-27",
+      "salary": "$110,000",
+      "skill": "Docker",
+      "experience": "5 years",
+      "education": "B.Tech"
+    },
+    {
+      "title": "Software Developer",
+      "company": "ABC Company",
+      "location": "New York",
+      "date": "2023-07-28",
+      "salary": "$100,000",
+      "skill": "JavaScript",
+      "experience": "3 years",
+      "education": "B.E"
+    },
+    {
+      "title": "Web Designer",
+      "company": "XYZ Corporation",
+      "location": "London",
+      "date": "2023-07-29",
+      "salary": "$80,000",
+      "skill": "HTML",
+      "experience": "2 years",
+      "education": "B.Tech"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Design Studio",
+      "location": "Mumbai",
+      "date": "2023-07-30",
+      "salary": "$90,000",
+      "skill": "SQL",
+      "experience": "4 years",
+      "education": "B.E"
+    },
+    {
+      "title": "Front-end Developer",
+      "company": "Global Marketing Agency",
+      "location": "Canada",
+      "date": "2023-07-31",
+      "salary": "$95,000",
+      "skill": "HTML",
+      "experience": "3 years",
+      "education": "B.Tech"
+    }
+  ]
+  
