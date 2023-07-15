@@ -10,9 +10,9 @@ function App() {
  
  const { t ,i18n } = useTranslation();
   return (
-    <ErrorBoundary fallback={() => <h1>Something went wrong!</h1>}>
+    // <ErrorBoundary fallback={() => <h1>Something went wrong!</h1>}>
     <Screen/>
-    </ErrorBoundary>
+    // </ErrorBoundary>
   );
 }
 
