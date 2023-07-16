@@ -46,7 +46,7 @@ import { SwaggerModule, DocumentBuilder } from '@nestjs/swagger';
 import { AppModule } from './app.module';
 import * as Sentry from '@sentry/node';
 
-async function bootstrap() {
+export async function bootstrap() {
   Sentry.init({
     dsn: process.env.SENTRY_DSN
   });
