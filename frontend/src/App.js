@@ -19,8 +19,8 @@ function App() {
 // export default App;
 export default function WrappedApp() {
   return (
-    <Suspense fallback="...loading">
+    
       <App />
-    </Suspense>
+ 
   );
 }
