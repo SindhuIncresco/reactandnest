@@ -493,8 +493,7 @@ npm manifest:
       "jest-environment-jsdom": "^27.5.1",
       "jest-environment-node": "^27.5.1",
       "jest-get-type": "^29.4.3",
-      "jest-haste-map": "^27.5.1",ls -l
-
+      "jest-haste-map": "^27.5.1",
       "jest-jasmine2": "^27.5.1",
       "jest-leak-detector": "^27.5.1",
       "jest-matcher-utils": "^27.5.1",
