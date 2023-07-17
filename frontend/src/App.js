@@ -7,7 +7,6 @@ import Screen from './component/mainscreen';
 function App() {
  // throw new Error('Testing Sentry integration');
  
- 
  const { t ,i18n } = useTranslation();
   return (
     // <ErrorBoundary fallback={() => <h1>Something went wrong!</h1>}>
